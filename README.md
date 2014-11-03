@@ -51,9 +51,11 @@ The above example is purely to illustrate that you *can* decompose the grid into
 + The shot's co-ordinates would be contained within ONE of the arrays in the **fleet** and return 'HIT'and delete itself from the array. 
 + If a shot co-ordinate passes through **water** and through **fleet**, the co-ordinate is already used and can return an error.
    
-Why delete the values?! 
-1. Because whether you hit water or a ship - that square has been used. 
-2. Because when an array in fleet is 0 - you can report that the ship has been sunk! 
+Why delete the values?!  
+1. Because whether you hit water or a ship - that square has been used and makes it unavailable to be shot at.   
+2. **It solves another capabiity** when an array in fleet is 0 - you can report that the ship has been sunk!
+
+**MAJOR DISADVANTAGE** where are the objects in this solution? 
 
 
 
