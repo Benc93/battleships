@@ -1,7 +1,0 @@
-Create local directory battleships
-type: git remote add origin git@github.com:Benc93/battleships.git
-type: git pull -u origin master
-
-[now you can pull and push from repo]
-
-to push type: git push -u origin master
