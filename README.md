@@ -2,7 +2,7 @@ Week 2: Battleships
 ===========
 ##Briefing
   
-We were set the task of building a Ruby-based recreation of the well known board game: Battleships.  
+We were set the task of building a Ruby-based re-creation of the well-known board game: Battleships.  
   
 Our version of the game must have the following capabilities:
   
@@ -53,7 +53,7 @@ The above example is purely to illustrate that you *can* decompose the grid into
    
 Why delete the values?!  
 1. Because whether you hit water or a ship - that square has been used and makes it unavailable to be shot at.   
-2. **It solves another capabiity** when an array in fleet is 0 - you can report that the ship has been sunk!
+2. **It solves another capability** when an array in the fleet = 0 you can report that the ship has been sunk!
 
 **MAJOR DISADVANTAGE** where are the objects in this solution? 
 
