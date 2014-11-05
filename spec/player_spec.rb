@@ -23,17 +23,10 @@ describe Player do
 			#expect(player.place!).to be true
 		end
 
-
-
-
-
-		# it "should receive from tracking board" do
-		# 	player.hit!
-
-		# 	expect(player).to receive_"shot"
-		# end
-
-
+		it "Can shoot at ship on targetboard" do
+			expect(targetboard).to receive(:hit).with(ship)
+			player.hit!(ship)
+		end
 
 	end
 

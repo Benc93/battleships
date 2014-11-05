@@ -20,4 +20,9 @@ class Player
 		#true
 	end
 
+	def hit!(ship)
+		@targetboard.hit(ship)
+	end
+	
+
 end
