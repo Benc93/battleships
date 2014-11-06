@@ -73,8 +73,10 @@ ________________________________________________________________________________
 + We worked patiently with each other, no big egos, and mutual respect throughout the whole process. 
 + The were many occasions where being understood, and in turn, understanding what is being said can take a LOT of time to reconcile (equally times when you think you're on the same page, only to realize that is not the case!).   
 + Everybody was free to contribute, and each person had the chance to implement an idea at least once.  
+    
 + Even when there was consensus on an idea/concept - there were often mini-misunderstandings that took time to resolve. Communication determines the speed of progress at every level, from Design right through to Testing.   
 + Difficult communication uses up time and a lot of energy!  
+   
 + Sometimes frustration leads to setting yourself work autonomously. The instict is tough to fight, be MUST be fought!  
 + **Document everything** - we could have used Kanban cards earlier in the Design stage, and more often through the project. This would have alleviated the pressure on the verbal communication, and given the team more confidence with something to focus on. 
 
