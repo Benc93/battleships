@@ -65,7 +65,7 @@ ________________________________________________________________________________
 ##Conclusions from the week 
 
 ###Get your feet wet early.
-+ The design stage is very [the most] important, but *time spent* is not necessarily *progress made*.  
++ The design stage is very [the most] important, but **time spent** is not necessarily **progress made**.  
 + Better perhaps to get something basic down that is an early compromise, than to get the 'best' idea running late. 
 + Making **a** decision is more important it's initial outcome. The decision can be quickly changed if it doesnt work, whereas the time on fruitless discussion cannot be recovered. 
 
