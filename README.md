@@ -20,7 +20,8 @@ Our version of the game must have the following capabilities:
     
 Based on the briefing, our team initially identified the following classes: **"Ship"**, **"Tracking Grid"**, **"Target Grid"**, and **"Player"**.  Later, we presented the rationale for choosing those classes, how they should collaborate with each other, and the responsibilities we'd assigned to each class.  
 
---------------------------------------------------------------------------------------------------------------------------------
+________________________________________________________________________________________________________________________________
+
 
 ####Alternative Idea
    
@@ -58,7 +59,8 @@ Why delete the values?!
 2. **It solves another capability** when an array in the fleet = 0 you can report that the ship has been sunk!
 
 **MAJOR DISADVANTAGE** where are the objects in this solution? 
---------------------------------------------------------------------------------------------------------------------------------
+
+________________________________________________________________________________________________________________________________
 
 ##Conclusions from the week 
 
