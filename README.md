@@ -70,7 +70,9 @@ ________________________________________________________________________________
 + Making **a** decision is more important it's initial outcome. The decision can be quickly changed if it doesnt work, whereas the time on fruitless discussion cannot be recovered. 
 
 ###Communication
-+ The were many occasions where being understood, and in turn, understanding what is being said can take a LOT of time to reconcile (equally times when you think you're on the same page, only to realize that is not the case!).    
++ We worked patiently with each other, no big egos, and mutual respect throughout the whole process. 
++ The were many occasions where being understood, and in turn, understanding what is being said can take a LOT of time to reconcile (equally times when you think you're on the same page, only to realize that is not the case!).   
++ Everybody was free to contribute, and each person had the chance to implement an idea at least once.  
 + Even when there was consensus on an idea/concept - there were often mini-misunderstandings that took time to resolve. Communication determines the speed of progress at every level, from Design right through to Testing.   
 + Difficult communication uses up time and a lot of energy!  
 + Sometimes frustration leads to setting yourself work autonomously. The instict is tough to fight, be MUST be fought!  
@@ -81,3 +83,4 @@ ________________________________________________________________________________
 + Our fastest, smoothest work was from ping pong pairing with well defined work. (80% of our progess made from 20% of our time).
 + Break the work into micro jobs and finish what you start. At least you have something for your efforts that might be useful later.  
 + Rabbit holes - if you're not documenting what you're doing, you're *kind-of* admitting its not necessary and you shouldn't be doing it. If you dont want to commit it to others - you already know you're off track!
++ 30 min rule - get help, dont repeat errors. 
