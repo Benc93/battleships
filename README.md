@@ -20,6 +20,8 @@ Our version of the game must have the following capabilities:
     
 Based on the briefing, our team initially identified the following classes: **"Ship"**, **"Tracking Grid"**, **"Target Grid"**, and **"Player"**.  Later, we presented the rationale for choosing those classes, how they should collaborate with each other, and the responsibilities we'd assigned to each class.  
 
+--------------------------------------------------------------------------------------------------------------------------------
+
 ####Alternative Idea
    
 After each group presented their ideas - an alternative domain map was suggested that was a little more abstract but had merit as a solution to the brief. The premise of the *newer* idea is that a player's board is made up essentially or either **Water** or **Ship**. A player can hit *either*, and regardless of what the location is made of (ship or water) the location changes fundamentally and is unavailable to be hit again. Why not break up a grid into it's components (co-ordinates) and assign those values as variables to two *alternative* classes: **"Water"** and **"Fleet"**. After all, **Grid = Water + Fleet**
@@ -56,6 +58,24 @@ Why delete the values?!
 2. **It solves another capability** when an array in the fleet = 0 you can report that the ship has been sunk!
 
 **MAJOR DISADVANTAGE** where are the objects in this solution? 
+--------------------------------------------------------------------------------------------------------------------------------
 
+##Conclusions from the week 
 
+###Get your feet wet early.
++ The design stage is very [/the most] important, but *time spent* is not necessarily *progress made*.  
++ Better perhaps to get something basic down that is an early compromise, than to get the 'best' idea running late. 
++ Making **a** decision is more important it's initial outcome. The decision can be quickly changed if it doesnt work, whereas the time on fruitless discussion cannot be recovered. 
 
+###Communication
++ The were many occasions where being understood, and in turn, understanding what is being said can take a LOT of time to reconcile (equally times when you think you're on the same page, only to realize that is not the case!).    
++ Even when there was consensus on an idea/concept - there were often mini-misunderstandings that took time to resolve. Communication determines the speed of progress at every level, from Design right through to Testing.   
++ Difficult communication uses up time and a lot of energy!  
++ Sometimes frustration leads to setting yourself work autonomously. The instict is tough to fight, be MUST be fought!  
++ **Document everything** - we could have used Kanban cards earlier in the Design stage, and more often through the project. This would have alleviated the pressure on the verbal communication, and given the team more confidence with something to focus on. 
+
+###Keep Swimming!
++ Concepts can feel overwhelming, and progress can feel slow, but the worst thing to do is stop.  
++ Our fastest, smoothest work was from ping pong pairing with well defined work. (80% of our progess made from 20% of our time).
++ Break the work into micro jobs and finish what you start. At least you have something for your efforts that might be useful later.  
++ Rabbit holes - if you're not documenting what you're doing, you're *kind-of* admitting its not necessary and you shouldn't be doing it. If you dont want to commit it to others - you already know you're off track!
