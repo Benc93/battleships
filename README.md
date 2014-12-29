@@ -23,7 +23,7 @@ Based on the briefing, our team initially identified the following classes: **"S
 ________________________________________________________________________________________________________________________________
 
 
-####Alternative Idea
+####Alternative Ideas
    
 After each group presented their ideas - an alternative domain map was suggested that was a little more abstract but had merit as a solution to the brief. The premise of the *newer* idea is that a player's board is made up essentially or either **Water** or **Ship**. A player can hit *either*, and regardless of what the location is made of (ship or water) the location changes fundamentally and is unavailable to be hit again. Why not break up a grid into it's components (co-ordinates) and assign those values as variables to two *alternative* classes: **"Water"** and **"Fleet"**. After all, **Grid = Water + Fleet**
    
