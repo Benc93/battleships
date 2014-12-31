@@ -1,10 +1,15 @@
-Week 2: Battleships
+Makers Academy Week 2 Project: Battleships
 ===========
+    
 ##Briefing
+   
+This was the second team exercise at Makers Academy and a lot of new concepts were introduced. It was the first time we used a shared repository and developed the App using numerous branches as you might in a larger collaborative project: 
+
+![git-history](https://cloud.githubusercontent.com/assets/9297921/5589427/815fe4ca-9116-11e4-9ab7-539f7e2fcb49.png)
+
+We were set the task of building a Ruby-based re-creation of the well-known board game: Battleships. This project focussed on the game engine (ie the logic).   
   
-We were set the task of building a Ruby-based re-creation of the well-known board game: Battleships.  
-  
-Our version of the game must have the following capabilities:
+Our version of the game had to have the following capabilities:
   
 + Two players must each have their own board with dimensions of 10 x 10 squares.  
 + On the board, there must be a number of ships that can be positioned by the player.  
