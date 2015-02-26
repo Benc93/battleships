@@ -1,12 +1,12 @@
 class Cell
   attr_reader :content
 
-  def initialize(content) 
+  def initialize(content)
     @content = content
     @status
   end
 
-  def hit?(content)
+  def hit?(_content)
     @status
   end
 
@@ -14,6 +14,4 @@ class Cell
     content.hit
     @status = true
   end
-
-
 end
