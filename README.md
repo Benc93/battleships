@@ -1,10 +1,15 @@
-Week 2: Battleships
+Makers Academy Week 2 Project: Battleships
 ===========
+    
 ##Briefing
+   
+This was the second team exercise at Makers Academy and a lot of new concepts were introduced. It was the first time we used a shared repository and developed the App using numerous branches as you might in a larger collaborative project: 
+
+![git-history](https://cloud.githubusercontent.com/assets/9297921/5589427/815fe4ca-9116-11e4-9ab7-539f7e2fcb49.png)
+
+We were set the task of building a Ruby-based re-creation of the well-known board game: Battleships. This project focussed on the game engine (ie the logic).   
   
-We were set the task of building a Ruby-based re-creation of the well-known board game: Battleships.  
-  
-Our version of the game must have the following capabilities:
+Our version of the game had to have the following capabilities:
   
 + Two players must each have their own board with dimensions of 10 x 10 squares.  
 + On the board, there must be a number of ships that can be positioned by the player.  
@@ -20,7 +25,10 @@ Our version of the game must have the following capabilities:
     
 Based on the briefing, our team initially identified the following classes: **"Ship"**, **"Tracking Grid"**, **"Target Grid"**, and **"Player"**.  Later, we presented the rationale for choosing those classes, how they should collaborate with each other, and the responsibilities we'd assigned to each class.  
 
-####Alternative Idea
+________________________________________________________________________________________________________________________________
+
+
+####Alternative Ideas
    
 After each group presented their ideas - an alternative domain map was suggested that was a little more abstract but had merit as a solution to the brief. The premise of the *newer* idea is that a player's board is made up essentially or either **Water** or **Ship**. A player can hit *either*, and regardless of what the location is made of (ship or water) the location changes fundamentally and is unavailable to be hit again. Why not break up a grid into it's components (co-ordinates) and assign those values as variables to two *alternative* classes: **"Water"** and **"Fleet"**. After all, **Grid = Water + Fleet**
    
@@ -57,5 +65,29 @@ Why delete the values?!
 
 **MAJOR DISADVANTAGE** where are the objects in this solution? 
 
+________________________________________________________________________________________________________________________________
 
+##Lessons from the week 
 
+####Get your feet wet early.
++ The design stage is very [the most] important, but **time spent** is not necessarily **progress made**.  
++ Better perhaps to get something basic down that is an early compromise, than to get the 'best' idea running late. 
++ Making **a** decision is more important it's initial outcome. The decision can be quickly changed if it doesnt work, whereas the time on fruitless discussion cannot be recovered. 
+
+####Communication
++ We worked patiently with each other, no big egos, and mutual respect throughout the whole process. 
++ The were many occasions where being understood, and in turn, understanding what is being said can take a LOT of time to reconcile (equally times when you think you're on the same page, only to realize that is not the case!).   
++ Everybody was free to contribute, and each person had the chance to implement an idea at least once.  
+    
++ Even when there was consensus on an idea/concept - there were often mini-misunderstandings that took time to resolve. Communication determines the speed of progress at every level, from Design right through to Testing.   
++ Difficult communication uses up time and a lot of energy!  
+   
++ Sometimes frustration leads to setting yourself work autonomously. The instict is tough to fight, be MUST be fought!  
++ **Document everything** - we could have used Kanban cards earlier in the Design stage, and more often through the project. This would have alleviated the pressure on the verbal communication, and given the team more confidence with something to focus on. 
+
+####Keep Swimming!
++ Concepts can feel overwhelming, and progress can feel slow, but the worst thing to do is stop.  
++ Our fastest, smoothest work was from ping pong pairing with well defined work. (80% of our progess made from 20% of our time).
++ Break the work into micro jobs and finish what you start. At least you have something for your efforts that might be useful later.  
++ Rabbit holes - if you're not documenting what you're doing, you're *kind-of* admitting its not necessary and you shouldn't be doing it. If you dont want to commit it to others - you already know you're off track!
++ 30 min rule - get help, dont repeat errors. 
